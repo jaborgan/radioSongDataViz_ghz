@@ -86,7 +86,7 @@ top100Data = loadJSON("kexp_top100.json");
 
 
 function setup() {
-    createCanvas(windowWidth, windowHeight);
+    createCanvas(windowWidth-100, windowHeight-50);
     frameRate(30);
 
     //grab text box once
