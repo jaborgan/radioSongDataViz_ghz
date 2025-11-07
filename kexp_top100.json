@@ -1,0 +1,691 @@
+{
+    "description": "December 2024 list of top 100 KEXP songs played",
+    "tracks": [
+    {
+        "number": 1,
+        "artist": "Kendrick Lamar",
+        "song": "GNX",
+        "label": "pgLang/Interscope",
+        "category": "Hip Hop"
+    },
+    {
+        "number": 2,
+        "artist": "Various Artists",
+        "song": "TRANSA",
+        "label": "Red Hot Org",
+        "category": "Experimental"
+    },
+    {
+        "number": 3,
+        "artist": "Fazerdaze",
+        "song": "Soft Power",
+        "label": "section1",
+        "category": "Bedroom Pop"
+    },
+    {
+        "number": 4,
+        "artist": "Chinese American Bear",
+        "song": "Wah!!!",
+        "label": "Moshi Moshi",
+        "category": "Pop"
+    },
+    {
+        "number": 5,
+        "artist": "The Cure",
+        "song": "Songs of a Lost World",
+        "label": "Fiction/Capitol",
+        "category": "Gothic-Punk"
+    },
+    {
+        "number": 6,
+        "artist": "Kelly Lee Owens",
+        "song": "Dreamstate",
+        "label": "dh2",
+        "category": "Electronica"
+    },
+    {
+        "number": 7,
+        "artist": "Michael Kiwanuka",
+        "song": "Small Changes",
+        "label": "Polydor",
+        "category": "Soul"
+    },
+    {
+        "number": 8,
+        "artist": "Tyler, The Creator",
+        "song": "CHROMAKOPIA",
+        "label": "Columbia",
+        "category": "Hip Hop"
+    },
+    {
+        "number": 9,
+        "artist": "Black Ends",
+        "song": "Psychotic Spew",
+        "label": "Youth Riot",
+        "category": "Punk"
+    },
+    {
+        "number": 10,
+        "artist": "Flying Lotus",
+        "song": "Spirit Box",
+        "label": "Warp",
+        "category": "Experimental"
+    },
+    {
+        "number": 11,
+        "artist": "Ezra Collective",
+        "song": "Dance, No One's Watching",
+        "label": "Partisan",
+        "category": "Afro-Jazz"
+    },
+    {
+        "number": 12,
+        "artist": "Father John Misty",
+        "song": "Mahashmashana",
+        "label": "Sub Pop",
+        "category": "Indie Rock"
+    },
+    {
+        "number": 13,
+        "artist": "Safe Mind",
+        "song": "6' Pole",
+        "label": "NUDE CLUB",
+        "category": "Electronic Pop"
+    },
+    {
+        "number": 14,
+        "artist": "Soccer Mommy",
+        "song": "Evergreen",
+        "label": "Loma Vista",
+        "category": "Indie Rock"
+    },
+    {
+        "number": 15,
+        "artist": "Confidence Man",
+        "song": "3 AM LA LA LA",
+        "label": "Polydor",
+        "category": "Electronica"
+    },
+    {
+        "number": 16,
+        "artist": "Kelly Finnigan",
+        "song": "A Lover Was Born",
+        "label": "Colemine",
+        "category": "Soul Funk"
+    },
+    {
+        "number": 17,
+        "artist": "Ela Minus",
+        "song": "DIA",
+        "label": "Domino",
+        "category": "Electro-Pop"
+    },
+    {
+        "number": 18,
+        "artist": "FKA twigs",
+        "song": "EUSEXUA",
+        "label": "Atlantic",
+        "category": "Experimental Pop"
+    },
+    {
+        "number": 19,
+        "artist": "LCD Soundsystem",
+        "song": "X-Ray Eyes",
+        "label": "DFA/Columbia",
+        "category": "Indie Rock"
+    },
+    {
+        "number": 20,
+        "artist": "Kim Deal",
+        "song": "Nobody Loves You More",
+        "label": "4AD",
+        "category": "Alternative Rock"
+    },
+    {
+        "number": 21,
+        "artist": "Goat",
+        "song": "Goat",
+        "label": "Rocket Recordings",
+        "category": "Psychedelic Rock"
+    },
+    {
+        "number": 22,
+        "artist": "Amber Mark",
+        "song": "Loosies",
+        "label": "PMR Records/Interscope",
+        "category": "Alternative R&B"
+    },
+    {
+        "number": 23,
+        "artist": "Phantogram",
+        "song": "Memory of a Day",
+        "label": "Neon Gold",
+        "category": "Indie Electronic"
+    },
+    {
+        "number": 24,
+        "artist": "Suki Waterhouse",
+        "song": "Memoirs of a Sparklemuffin",
+        "label": "Sub Pop",
+        "category": "Indie Pop"
+    },
+    {
+        "number": 25,
+        "artist": "Ora the Molecule",
+        "song": "Dance Therapy",
+        "label": "Mute",
+        "category": "Synth Pop"
+    },
+    {
+        "number": 26,
+        "artist": "Tunde Adebimpe",
+        "song": "Magnetic",
+        "label": "Sub Pop",
+        "category": "Experimental Rock"
+    },
+    {
+        "number": 27,
+        "artist": "Al Green",
+        "song": "Everybody Hurts",
+        "label": "Fat Possum",
+        "category": "Soul"
+    },
+    {
+        "number": 28,
+        "artist": "Baby Rose",
+        "song": "Landslide",
+        "label": "Secretly Canadian",
+        "category": "Soul"
+    },
+    {
+        "number": 29,
+        "artist": "Everything Is Recorded",
+        "song": "Temporary  Electronic",
+        "label": "(XL Recordings)",
+        "category": "Electronic"
+    },
+    {
+        "number": 30,
+        "artist": "Temples",
+        "song": "Other Structures",
+        "label": "Fat Possum",
+        "category": "Psychedelic Rock"
+    },
+    {
+        "number": 31,
+        "artist": "Talking Heads",
+        "song": "Talking Heads: 77",
+        "label": "Sire",
+        "category": "New Wave"
+    },
+    {
+        "number": 32,
+        "artist": "Naked Giants",
+        "song": "Shine Away",
+        "label": "DevilDuck",
+        "category": "Garage Rock"
+    },
+    {
+        "number": 33,
+        "artist": "ALVILDA",
+        "song": "C'est Deja L'heure",
+        "label": "Static Shock",
+        "category": "Punk Rock"
+    },
+    {
+        "number": 34,
+        "artist": "Amyl and the Sniffers",
+        "song": "Cartoon Darkness",
+        "label": "Amyl and The Sniffers/Virgin Music",
+        "category": "Punk Rock"
+    },
+    {
+        "number": 35,
+        "artist": "Merce Lemon",
+        "song": "Watch Me Drive Them Dogs Wild",
+        "label": "Darling Recordings",
+        "category": "Indie Folk"
+    },
+    {
+        "number": 36,
+        "artist": "TSHA",
+        "song": "Sad Girl",
+        "label": "Ninja Tune",
+        "category": "House"
+    },
+    {
+        "number": 37,
+        "artist": "BY.ALEXANDER",
+        "song": "MEMORIES FOR SALE -AT-> 66 GREENE ST SOHO NY",
+        "label": "self-released",
+        "category": "null"
+    },
+    {
+        "number": 38,
+        "artist": "Freak Slug",
+        "song": "I Blow Out Big Candles",
+        "label": "Future Classic",
+        "category": "Bedroom Pop"
+    },
+    {
+        "number": 39,
+        "artist": "Friedberg",
+        "song": "Hardcore Workout Queen",
+        "label": "Clouds Hill",
+        "category": "Post-Punk"
+    },
+    {
+        "number": 40,
+        "artist": "Nice Biscuit",
+        "song": "SOS",
+        "label": "The Reverberation Appreciation Society",
+        "category": "Psychedelic Rock"
+    },
+    {
+        "number": 41,
+        "artist": "Underworld",
+        "song": "Strawberry Hotel",
+        "label": "Smith Hyde Productions",
+        "category": "Electronic"
+    },
+    {
+        "number": 42,
+        "artist": "Shigeto",
+        "song": "Cherry Blossom Baby",
+        "label": "Ghostly International",
+        "category": "Electronic"
+    },
+    {
+        "number": 43,
+        "artist": "The Blessed Madonna",
+        "song": "Godspeed",
+        "label": "Warner",
+        "category": "House"
+    },
+    {
+        "number": 44,
+        "artist": "Homer",
+        "song": "Ensatina",
+        "label": "Big Crown",
+        "category": "Soul"
+    },
+    {
+        "number": 45,
+        "artist": "OMBIIGIZI",
+        "song": "SHAME",
+        "label": "Arts & Crafts",
+        "category": "Alternative Rock"
+    },
+    {
+        "number": 46,
+        "artist": "Nilufer Yanya",
+        "song": "My Method Actor",
+        "label": "Ninja Tune",
+        "category": "Indie Rock"
+    },
+    {
+        "number": 47,
+        "artist": "Dummy",
+        "song": "Free Energy",
+        "label": "Trouble In Mind",
+        "category": "Neo-Psychedelia"
+    },
+    {
+        "number": 48,
+        "artist": "Deep Sea Diver",
+        "song": "Billboard Heart",
+        "label": "Sub Pop",
+        "category": "Indie Rock"
+    },
+    {
+        "number": 49,
+        "artist": "True Loves",
+        "song": "Good Weed & Red Wine feat. Nigel Hall",
+        "label": "self-released",
+        "category": "Funk"
+    },
+    {
+        "number": 50,
+        "artist": "Franz Ferdinand",
+        "song": "The Human Fear",
+        "label": "Domino",
+        "category": "Indie Rock"
+    },
+    {
+        "number": 51,
+        "artist": "Kassie Krut",
+        "song": "Kassie Krut",
+        "label": "Fire Talk",
+        "category": "Glitch Pop"
+    },
+    {
+        "number": 52,
+        "artist": "Momma",
+        "song": "Ohio All the Time",
+        "label": "Polyvinyl",
+        "category": "Indie Rock"
+    },
+    {
+        "number": 53,
+        "artist": "Obongjayar",
+        "song": "Just My Luck b/w Tomorrow Man",
+        "label": "September Recordings",
+        "category": "Nu-Disco"
+    },
+    {
+        "number": 54,
+        "artist": "Panda Bear",
+        "song": "Sinister Grift",
+        "label": "Domino",
+        "category": "Psychedelic Pop"
+    },
+    {
+        "number": 55,
+        "artist": "Sharon Van Etten & The Attachment Theory",
+        "song": "Sharon Van Etten & The Attachment Theory",
+        "label": "Jagjaguwar",
+        "category": "Indie Rock"
+    },
+    {
+        "number": 56,
+        "artist": "The Weather Station",
+        "song": "Humanhood",
+        "label": "Fat Possum",
+        "category": "Art Pop"
+    },
+    {
+        "number": 57,
+        "artist": "clipping.",
+        "song": "Keep Pushing",
+        "label": "Sub Pop",
+        "category": "Hip Hop"
+    },
+    {
+        "number": 58,
+        "artist": "DITZ",
+        "song": "Never Exhale",
+        "label": "Republic of Music/Domino Publishing",
+        "category": "Post-Punk"
+    },
+    {
+        "number": 59,
+        "artist": "Frankie and the Witch Fingers",
+        "song": "i-CANDY",
+        "label": "Greenway/The Reverberation Appreciation Society",
+        "category": "Psychedelic Rock"
+    },
+    {
+        "number": 60,
+        "artist": "King Gizzard and the Lizard Wizard",
+        "song": "Phantom Island",
+        "label": "p(doom)",
+        "category": "Psychedelic Rock"
+    },
+    {
+        "number": 61,
+        "artist": "Les Amazones d'Afrique",
+        "song": "Musow Danse",
+        "label": "Real World",
+        "category": "World Music"
+    },
+    {
+        "number": 62,
+        "artist": "Lusine, Arms and Sleepers, Yppah",
+        "song": "Earth to Moon",
+        "label": "Future Archive Recordings",
+        "category": "Electronic"
+    },
+    {
+        "number": 63,
+        "artist": "Sa-Roc",
+        "song": "Amazing Grace",
+        "label": "Rhymesayers Entertainment",
+        "category": "Hip Hop"
+    },
+    {
+        "number": 64,
+        "artist": "Squid",
+        "song": "Cowards",
+        "label": "Warp",
+        "category": "Post-Punk"
+    },
+    {
+        "number": 65,
+        "artist": "The Acid & RY X",
+        "song": "Breed",
+        "label": "Eden Recordings",
+        "category": "Electronic"
+    },
+    {
+        "number": 66,
+        "artist": "070 Shake",
+        "song": "Petrichor",
+        "label": "Getting Out Our Dreams/Def Jam",
+        "category": "R&B"
+    },
+    {
+        "number": 67,
+        "artist": "Negative Shawdy",
+        "song": "Dancing with the Lights Out",
+        "label": "Future Gods/Silver Lab(s)",
+        "category": "Hip Hop"
+    },
+    {
+        "number": 68,
+        "artist": "Red Ribbon",
+        "song": "Red Ribbon",
+        "label": "Danger Collective",
+        "category": "Dream Pop"
+    },
+    {
+        "number": 69,
+        "artist": "SunDog",
+        "song": "About You",
+        "label": "Dog Yard Records",
+        "category": "Indie Pop"
+    },
+    {
+        "number": 70,
+        "artist": "Carlita",
+        "song": "Sentimental",
+        "label": "Ninja Tune",
+        "category": "Electronic"
+    },
+    {
+        "number": 71,
+        "artist": "Primal Scream",
+        "song": "Come Ahead",
+        "label": "BMG",
+        "category": "Funk Rock"
+    },
+    {
+        "number": 72,
+        "artist": "Adrian Younge",
+        "song": "Linear Labs: Sao Paulo",
+        "label": "Linear Labs",
+        "category": "Jazz-Funk"
+    },
+    {
+        "number": 73,
+        "artist": "Strangerfamiliar",
+        "song": "La Pena",
+        "label": "El Ojo y La Boca Records",
+        "category": "Art Pop"
+    },
+    {
+        "number": 74,
+        "artist": "deary",
+        "song": "Aurelia",
+        "label": "Sonic Cathedral",
+        "category": "Dream Pop"
+    },
+    {
+        "number": 75,
+        "artist": "Fantastic Negrito",
+        "song": "Son of a Broken Man",
+        "label": "Storefront Records",
+        "category": "Blues Rock"
+    },
+    {
+        "number": 76,
+        "artist": "Naked Roommate",
+        "song": "Pass the Loofah",
+        "label": "Trouble In Mind",
+        "category": "Dance-Punk"
+    },
+    {
+        "number": 77,
+        "artist": "Pom Pom Squad",
+        "song": "Mirror Starts Moving Without Me",
+        "label": "City Slang",
+        "category": "Alt-Pop"
+    },
+    {
+        "number": 78,
+        "artist": "Porridge Radio",
+        "song": "Clouds In The Sky They Will Always Be There For Me",
+        "label": "Secretly Canadian",
+        "category": "Indie Rock"
+    },
+    {
+        "number": 79,
+        "artist": "GEMZ",
+        "song": "See the Future",
+        "label": "Sonic Ritual",
+        "category": "Synth-Pop"
+    },
+    {
+        "number": 80,
+        "artist": "Painted Vein",
+        "song": "Dripping Only Black",
+        "label": "self-released",
+        "category": "Post-Punk"
+    },
+    {
+        "number": 81,
+        "artist": "Denzel Curry",
+        "song": "KING OF THE MISCHIEVOUS SOUTH",
+        "label": "Loma Vista",
+        "category": "Hip Hop"
+    },
+    {
+        "number": 82,
+        "artist": "Bon Iver",
+        "song": "SABLE,",
+        "label": "Jagjaguwar",
+        "category": "Indie Folk"
+    },
+    {
+        "number": 83,
+        "artist": "Dar Disku",
+        "song": "Dar Disku",
+        "label": "Soundway",
+        "category": "World Disco"
+    },
+    {
+        "number": 84,
+        "artist": "Leon Bridges",
+        "song": "Leon",
+        "label": "Columbia",
+        "category": "R&B/Soul"
+    },
+    {
+        "number": 85,
+        "artist": "Seun Kuti & Egypt 80",
+        "song": "Heavier Yet Lays the Crownless Head",
+        "label": "SKE80/Record Kicks",
+        "category": "Afrobeat"
+    },
+    {
+        "number": 86,
+        "artist": "Doechii",
+        "song": "Alligator Bites Never Heal",
+        "label": "Top Dawg Entertainment/Capitol",
+        "category": "Hip Hop"
+    },
+    {
+        "number": 87,
+        "artist": "Jamie xx",
+        "song": "In Waves",
+        "label": "Young",
+        "category": "House"
+    },
+    {
+        "number": 88,
+        "artist": "Sea Lemon",
+        "song": "Crystals feat. Benjamin Gibbard",
+        "label": "Luminelle",
+        "category": "Dream Pop"
+    },
+    {
+        "number": 89,
+        "artist": "La Securite",
+        "song": "Detour",
+        "label": "Bella Union/Mothland",
+        "category": "Post-Punk"
+    },
+    {
+        "number": 90,
+        "artist": "Lambrini Girls",
+        "song": "Who Let The Dogs Out",
+        "label": "City Slang",
+        "category": "Garage Punk"
+    },
+    {
+        "number": 91,
+        "artist": "Des Demonas",
+        "song": "Apocalyptic Boom! Boom!",
+        "label": "In The Red",
+        "category": "Post-Punk"
+    },
+    {
+        "number": 92,
+        "artist": "total tommy",
+        "song": "bruises (Play It Again Sam)",
+        "label": "Indie Pop",
+        "category": "PIAS"
+    },
+    {
+        "number": 93,
+        "artist": "District Five",
+        "song": "Come Closer",
+        "label": "Stone Pixels",
+        "category": "Jazz Fusion"
+    },
+    {
+        "number": 94,
+        "artist": "Good Morning",
+        "song": "The Accident",
+        "label": "self-released",
+        "category": "Indie Pop"
+    },
+    {
+        "number": 95,
+        "artist": "Organi",
+        "song": "Babylonia",
+        "label": "Alien Transistor",
+        "category": "Dream Pop"
+    },
+    {
+        "number": 96,
+        "artist": "The Warlochs",
+        "song": "The Warlochs",
+        "label": "Double Milds",
+        "category": "Rock"
+    },
+    {
+        "number": 97,
+        "artist": "halo",
+        "song": "headbanger",
+        "label": "halocorp",
+        "category": "Dream Rock"
+    },
+    {
+        "number": 98,
+        "artist": "World News",
+        "song": "Mindsnap",
+        "label": "Pie & Mash Records",
+        "category": "Shoegaze"
+     }
+    ]
+}
